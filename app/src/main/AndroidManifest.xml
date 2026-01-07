@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.G_Notes">
         <activity
-            android:name=".MainActivity"
+            android:name="com.gageb.notepad.ui.MainActivity"
             android:exported="true"
             android:theme="@style/Theme.G_Notes">
             <intent-filter>
